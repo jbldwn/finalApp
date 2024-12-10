@@ -51,7 +51,7 @@ export default function portfolio() {
               marginVertical: 15,
             }}
             source={{
-              uri: "https://d2zp5xs5cp8zlg.cloudfront.net/image-61785-800.jpg",
+              uri: "https://icatcare.org/app/uploads/2018/07/Helping-your-new-cat-or-kitten-settle-in-1.png",
             }}
           />
           <View style={styles.row}>
