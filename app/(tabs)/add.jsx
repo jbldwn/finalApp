@@ -20,7 +20,8 @@ export default function add() {
       site: site,
       git: git,
       synopsis: synopsis,
-      tools: tools.split(" "),
+      tools: tools,
+      // tools: tools.split(" "),
     };
 
     try {
